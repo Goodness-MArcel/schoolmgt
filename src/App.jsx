@@ -6,6 +6,7 @@ export default function App (){
     <h1>This is the latest Change</h1>
     <p>Welcome to the React application!</p>
     <p>Enjoy building your components!</p>
+    <h2>my name is goodness</h2>
     </>
   )
  }
